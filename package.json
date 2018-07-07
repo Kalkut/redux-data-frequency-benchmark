@@ -1,0 +1,21 @@
+{
+  "name": "redux-data-frequency-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aframe": "^0.8.2",
+    "nanotimer": "^0.3.15",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "ws": "^5.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
